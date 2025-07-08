@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+backup/
+data/
+output/kitti_0000_DeepSORT.mp4
+output/kitti_0000_SORT.mp4
+playground.ipynb
+yolov5s.pt
